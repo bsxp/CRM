@@ -1,0 +1,87 @@
+{
+  "customers": [
+    {
+      "primaryName": "Josh",
+      "description": "Fletcher",
+      "location": "Seattle",
+      "email": "jfletcher123@gmail.com",
+      "phone": 123,
+      "contacts": [],
+      "type": "corp",
+      "identifier": "09f841ae-ca89-4bc8-980c-8da4ad031715",
+      "id": 1
+    },
+    {
+      "primaryName": "",
+      "description": "",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "businessType": "",
+      "identifier": "adbe5cb1-7472-4238-a32f-99813813acc6",
+      "id": 11
+    },
+    {
+      "primaryName": "Testing",
+      "description": "Adding a new one",
+      "location": "Your bedroom",
+      "email": "",
+      "phone": "",
+      "businessType": "",
+      "identifier": "f9887505-7772-4b24-b460-831808f5d31f",
+      "id": 12
+    },
+    {
+      "primaryName": "PopOver",
+      "description": "Peer-to-peer service platform",
+      "location": "Tacoma",
+      "email": "popovr.net",
+      "phone": "6514028025",
+      "businessType": "corp",
+      "identifier": "665d85b8-8c61-4c64-b7a8-856b84f699fb",
+      "id": 13
+    },
+    {
+      "primaryName": "A business",
+      "description": "",
+      "location": "",
+      "email": "",
+      "phone": "",
+      "businessType": "",
+      "identifier": "d07c11d2-caa5-47a0-8b0c-3250386e64cf",
+      "id": 14
+    }
+  ],
+  "people": [],
+  "orders": [],
+  "products": [
+    {
+      "productName": "Pizza",
+      "description": "The first pizza we offer",
+      "price": "1000",
+      "identifier": "2dfa94e2-b230-4d93-9524-d95c6def17d2",
+      "id": 1
+    },
+    {
+      "productName": "Cheesy bites",
+      "description": "Cheesy and delicious!",
+      "price": "1200",
+      "identifier": "c4b5b0b3-1fe3-4374-83da-81024d94bff8",
+      "id": 2
+    },
+    {
+      "productName": "Caesar Salad",
+      "description": "The only healthy thing on our menu",
+      "price": "500",
+      "identifier": "f8f16c2e-d08b-45ad-beda-41f1f73b96a7",
+      "id": 3
+    },
+    {
+      "productName": "Old cheese",
+      "description": "Our oldiest &  moldiest cheese",
+      "price": "7000",
+      "identifier": "14c3eeca-0291-4779-ab2b-c06eeceea914",
+      "id": 4
+    }
+  ]
+}
